@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bg-light{
+background-color: #2cb2f1;
+}
+
+
+.mt-50{
+margin-top: 50px;
+}
+#canvas{
+  border: 2px solid black;
+}
+
+.main{
+  background-color: #2cb2f1;
+}
+
+
+
+.card{
+  align-items: center;
+}
+
